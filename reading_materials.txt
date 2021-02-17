@@ -1,0 +1,3 @@
+Standford course
+
+http://cs231n.stanford.edu/2019/
